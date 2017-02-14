@@ -1,0 +1,374 @@
+@import url(reset.css);
+
+body{
+	background-color: #d6d6d6;
+	font: 12pt/1.2 "Open Sans Light", "Bebas Neue", sans-serif;
+
+}
+
+a {
+	color: #0f0f0f;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+p {
+	font: 12pt/1.1 "Open Sans Light", "Bebas Neue", sans-serif;
+}
+
+#content {
+	width: 1500px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+#wrapper {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+#header{
+	padding: 10px 0 28px 3px;
+	overflow: hidden;
+}
+
+#logo{
+	width: 121px;
+	height: 65px;
+	float: left;
+}
+
+#menu{
+	font: bold lighter 16pt Bebas, "Open Sans" sans-serif;
+    color: #0f0f0f;
+    float: right;
+    margin-top: 36px;
+}
+
+#menu ul li{
+	float: left;
+	margin-left: 34px;
+	font-stretch: ultra-condensed;
+}
+
+#mainBaner{
+	width: 1500px;
+	height: 684px;
+	background: url(../images/mainBaner.png) no-repeat;
+	margin-left: -180px;
+}
+
+#bookingBar{
+	height: 114px;
+	background-color: #1c1c1c;
+	border-bottom: 11px solid #4e26fd;
+	margin-top: 55px;
+	overflow: hidden;
+}
+
+#bookingForm{
+	margin-top: 27px;
+	margin-left: 33px;
+}
+
+.textArea {
+	width: 194px;
+    height: 46px;
+    border: none;
+    margin-right: 12px;
+    font: 14pt/1.0 "Open Sans", Bebas, sans-serif;
+    color: #262626;
+    padding-left: 17px;
+}	
+
+.bookingButton {
+	width: 168px;
+    height: 50px;
+    border: none;
+    background-color: #4e26fd;
+    font: 16pt Bebas, "Open Sans", sans-serif;
+    color: #fff;
+    padding: 0;
+}
+
+
+#activitiesList, #roomViews, #hotelLists, #hotelFuture, #hotel-future-content, #footerTop, .row, .footer-menu {
+	overflow: hidden;
+}
+
+#hotelLists h4 {
+	font: bold 47pt "Bebas Neue", "Open Sans", sans-serif;
+    text-align: center;
+    margin: 102px auto 18px auto;
+}
+
+.content-box{
+	width: 353px;
+	float: left;
+	margin-left: 40px;
+	text-align: center;
+	margin-bottom: 44px;
+}
+
+#hotelLists>.row>.content-box:nth-child(1), #hotelLists>.row>.content-box:nth-child(3n+4) {
+	margin-left: 0px;
+}
+
+.content-box img{
+	width: 353px;
+	height: 241px;
+}
+
+.content-box p span, .content-room-center p span, .content-room-small p span, .news-content p span {
+	font: bold 15pt/24pt "Open Sans", "Bebas Neue", sans-serif;
+}
+
+.hidden {
+	display: none;
+}
+
+.btn{
+	text-align: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.btn-primary {
+	width: 173px;
+    height: 52px;
+    border: 2px solid #4e26fd;
+    background: none;
+    font: bold 18pt/1.9 Bebas, "Open Sans", sans-serif;
+    color: #4e26fd;
+}
+
+#activitiesList{
+	width: 1500px;
+	margin-left: -180px;
+}
+
+#activitiesList h3 {
+	font: bold 67pt "Bebas Neue", "Open Sans", sans-serif;
+    text-align: center;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+    overflow: hidden;
+}
+
+.activities-box{
+	width: 300px;
+	height: 598px;
+	float: left;
+	color: #fff;
+}
+.activities-box h4 {
+	font: bold 46pt "Bebas Neue", "Open Sans", sans-serif;
+    margin-bottom: -8px;
+    text-transform: uppercase;
+    padding-top: 464px;
+}
+
+#activitiesList h4, p {
+	padding-left: 30px;
+}
+
+.activities-box p {
+	font: 13pt/1.5 "Open Sans Light", "Bebas Neue", sans-serif;
+}
+
+#skiingImage {
+	background: url(../images/skiing.jpg) no-repeat;
+}
+
+#boardingImage {
+	background: url(../images/boarding.png) no-repeat;
+}
+
+#cyclingImage {
+	background: url(../images/cycling.png) no-repeat;
+}
+
+#hikingImage {
+	background: url(../images/hiking.png) no-repeat;
+}
+
+#trekkingImage {
+	background: url(../images/trekking.png) no-repeat;
+}
+
+#roomViews h3 {
+	font: bold 64pt/1.0 "Bebas Neue", "Open Sans", sans-serif;
+    text-align: center;
+    margin: 96px auto 56px;
+    text-transform: uppercase;
+}
+
+.content-room-small, .content-room-center {
+	width: 242px;
+	float: left;
+	padding: 0;
+	margin-right: 38px;
+}
+
+#roomViews p, #hotelLists p, #news p {
+	padding-left: 0;
+    padding-top: 18px;
+}
+
+.content-room-small p span, .content-room-center p span {
+	font: bold 12pt/1.1 "Open Sans Light", "Bebas Neue", sans-serif;
+}
+
+.content-room-small p, .content-room-center p {
+	font: 12pt/1.0 "Open Sans Light", "Bebas Neue", sans-serif;
+}
+
+.content-room-center {
+	width: 579px;
+}
+
+.image {
+	padding-top: 25px;
+}
+
+.second-button {
+	margin-top: 46px;
+    margin-bottom: 94px;
+}
+
+#hotelFuture {
+	width: 1500px;
+	height: 554px;
+	background: url(../images/hotelFuture.png) no-repeat;
+	margin-left: -180px;
+}
+#hotel-future-content{
+	width: 492px;
+	height: 554px;
+	float: right;
+	margin-right: 180px;
+}
+
+#hotel-future-content h1{
+	font: bold 99pt/0.8 "Bebas Neue", "Open Sans", sans-serif;
+    padding-top: 112px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    overflow: hidden;
+}
+
+#hotel-future-content p{
+	color: #000;
+}
+
+#hotel-future-content button{
+	background-color: #0000ff;
+    color: #fff;
+    float: left;
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+#news h2 {
+	font: bold 92pt "Bebas Neue", "Open Sans", sans-serif;
+    text-align: center;
+    padding-top: 78px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    overflow: hidden;
+}
+
+.news-content {
+	width: 353px;
+    height: 514px;
+    float: left;
+    margin-right: 40px;
+}
+
+.last-button {
+	margin-bottom: 76px;
+}
+
+#footer{
+	width: 1500px;
+	height: 321px;
+	background: url(../images/footerBackground.png);
+	margin-left: -180px;
+}
+
+#footerTop {
+	border-bottom: 1px solid #303030;
+}
+
+#footerСontent {
+	float: right;
+	margin-right: 180px;
+	width: 1140px;
+	height: 321px;
+	color: #fff;
+}
+
+.footer-content {
+	width: 293px;
+    height: 256px;
+    float: left;
+    margin-right: 130px;
+    font: 14pt/1.8 "Open Sans", "Bebas Neue", sans-serif;
+}
+
+.footer-content p {
+	font: 11pt/1.1 "Open Sans Light", "Bebas Neue", sans-serif;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.footer-content p img{
+	margin-right: 15px;
+}
+
+#footerLogo {
+	margin-top: 34px;
+    margin-bottom: 24px;
+}
+
+.footer-menu ul {
+	columns: 84px 3;
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+
+.footer-menu ul li {
+    font: bold 14pt/1.7 "Bebas Neue", "Open Sans", sans-serif;
+    margin-left: 24px;
+} 
+
+.footer-menu ul li a {
+	color: #fff;
+}
+
+.footer-social p {
+	margin-top: 106px;
+    margin-left: 92px;
+    padding-bottom: 0px;
+}
+
+.footer-social ul li {
+	float: left;
+    margin-top: 22px;
+    margin-right: 12px;
+}
+
+.footer-social ul li:first-child {
+	margin-left: 106px;
+}
+
+#footerBottom p {
+    padding-left: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.last-box{
+	margin-right: 0;
+}

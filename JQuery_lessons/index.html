@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hotel Booking Website Template</title>
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
+</head>
+<body>
+	<div id="content">
+		<div id="wrapper">
+			<div id="header">
+				<div id="logo">
+					<a href="index.html"><img src="images/Logo.png" alt="hotelLogo"></a>
+				</div>
+				<div id="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="#">About us</a></li>
+						<li><a href="#">Shop</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="mainBaner"></div>
+			<div id="bookingBar">
+				<form action="#" method="post" id="bookingForm">
+					<input type="date" name="arrival" value="Arrival" id="datepicker" class="textArea">
+					<input type="date" name="departure" value="Departure" id="datepicker" class="textArea">
+					<input type="text" name="chosseRoom" value="Chosse a Room" class="textArea">
+					<select class="textArea states"></select>
+					<input type="button" name="bookNow" value="Book Now" class="bookingButton">
+				</form>
+			</div>	
+			<div id="hotelLists">
+				<h4>Award winning hotels</h4>
+				<div class="row">
+					<!-- <div class="content-box">
+						<img src="images/downtown.png" alt="downTownImage">
+						<p><span>Middle of downtown</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful, solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box">
+						<img src="images/environment.png" alt="environmentImage">
+						<p><span>Great Environment</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box last-box">
+						<img src="images/breakfast.png" alt="breakfastImage">
+						<p><span>Free Breakfast</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div> -->
+				</div>
+				<!-- <div class="row">
+					<div class="content-box">
+						<img src="images/everyday.png" alt="everydayImage">
+						<p><span>We Clean Everyday</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box">
+						<img src="images/nightlife.png" alt="nightlifeImage">
+						<p><span>Enjoy nightlife</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box last-box">
+						<img src="images/meeting.png" alt="meetingImage">
+						<p><span>Meet New People</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+				</div>
+				<div class="row hidden">
+					<div class="content-box">
+						<img src="images/downtown.png" alt="downTownImage">
+						<p><span>Middle of downtown</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful, solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box">
+						<img src="images/environment.png" alt="environmentImage">
+						<p><span>Great Environment</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box last-box">
+						<img src="images/breakfast.png" alt="breakfastImage">
+						<p><span>Free Breakfast</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+				</div>
+				<div class="row hidden">
+					<div class="content-box">
+						<img src="images/everyday.png" alt="everydayImage">
+						<p><span>We Clean Everyday</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box">
+						<img src="images/nightlife.png" alt="nightlifeImage">
+						<p><span>Enjoy nightlife</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="content-box last-box">
+						<img src="images/meeting.png" alt="meetingImage">
+						<p><span>Meet New People</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful,solid and pleasant to the touch. 
+						</p>
+					</div>
+				</div> -->
+			</div>
+		 	<!--<div class="btn">
+				<button type="button" id="hotelButton" class="btn-primary">More</button>
+			</div> -->
+			<div id="activitiesList">
+				<h3>Winter activities</h3>
+				<div class="activities-box" id="skiingImage">
+					<h4>Skiing</h4>
+					<p>We fill the space content.<br> High-quality, beautiful, solid and</p>
+				</div>
+				<div class="activities-box" id="boardingImage">
+					<h4>Boarding</h4>
+					<p>We fill the space content.<br> High-quality, beautiful, solid and</p>
+				</div>
+				<div class="activities-box" id="cyclingImage">
+					<h4>Cycling</h4>
+					<p>We fill the space content.<br> High-quality, beautiful, solid and</p>
+				</div>
+				<div class="activities-box" id="hikingImage">
+					<h4>Hiking</h4>
+					<p>We fill the space content.<br> High-quality, beautiful, solid and</p>
+				</div>
+				<div class="activities-box last-box" id="trekkingImage">
+					<h4>Trekking</h4>
+					<p>We fill the space content.<br> High-quality, beautiful, solid and</p>
+				</div>
+			</div>
+			<div id="roomViews">
+				<h3>Delux rooms with <br>a beautiful view</h3>
+				<div class="content-room-small">
+					<img src="images/studio_first.png" alt="studiorumImage">
+					<p><span>Magna pars studiorum</span></p>
+					<p>Lorem ipsum dolor sit amet,<br>consectetur adipiscing elit. 
+					</p>
+					<img src="images/studio_second.png" alt="studiorumImage" class="image">
+					<p><span>Magna pars studiorum</span></p>
+					<p>Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit. 
+					</p>
+				</div>
+				<div class="content-room-center">
+					<img src="images/studio_third.png" alt="studiorumImage">
+					<p><span>Magna pars studiorum</span></p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta <br>sem malesuada magna mollis euismod. Nul id dolor id nibh ultricies vehicula.
+					</p>
+				</div>
+				<div class="content-room-small last-box">
+					<img src="images/studio_fourth.png" alt="studiorumImage">
+					<p><span>Magna pars studiorum</span></p>
+					<p>Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit. 
+					</p>
+					<img src="images/studio_fifth.png" alt="studiorumImage" class="image">
+					<p><span>Magna pars studiorum</span></p>
+					<p>Lorem ipsum dolor sit amet, <br>consectetur adipiscing elit.
+					</p>
+				</div>
+			</div>
+			<div class="btn  second-button">
+				<button type="button" class="btn-primary">More</button>
+			</div>
+			<div id="hotelFuture">
+				<div id="hotel-future-content">
+					<h1>Winter <br>weather</h1>
+					<p>We fill the space content. High-quality, beautiful, solid and pleasant to the touch. Furniture and decoration of concrete? You to us.</p>
+					<div class="btn">
+						<button type="button" class="btn-primary">More</button>
+					</div>
+				</div>
+			</div>
+			<div id="news">
+				<div class="first-row">
+					<h2>News from us</h2>
+					<div class="news-content">
+						<img src="images/firstNewsImages.png" alt="newsImage">
+						<p><span>Sedial eiusmod tempor</span></p>
+						<p>Lorem ipsum dolor sit amet, consectetur <br>adipisici elit, sed eiusmod tempor incidunt
+						</p>
+					</div>
+					<div class="news-content">
+						<img src="images/secondNewsImages.png" alt="newsImage">
+						<p><span>Sedial eiusmod tempor</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful, solid and pleasant to the touch. 
+						</p>
+					</div>
+					<div class="news-content last-box">
+						<img src="images/thirdNewsImages.png" alt="newsImage">
+						<p><span>Sedial eiusmod tempor</span></p>
+						<p>We fill the space content. High-quality,<br>beautiful, solid and pleasant to the touch. 
+						</p>
+					</div>
+				</div>
+				<div class="btn last-button">
+					<button type="button" class="btn-primary">More</button>
+				</div>
+			</div>
+			<div id="footer">
+				<div id="footerСontent">
+					<div id="footerTop">
+						<div class="footer-content">
+							<div id="footerLogo">
+								<a href="index.html"><img src="images/footerLogo.png" alt="hotelLogo"></a>
+							</div>
+							<p><img src="images/location.png" alt="locationIcon">123, Main Street, NY 456789</p>
+							<p><img src="images/phone.png" alt="phoneIcon">+12 345 67890</p>
+							<p><img src="images/message.png" alt="messageIcon">free@psdfreebies.com</p>
+						</div>
+						<div class="footer-content footer-menu">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="#">About us</a></li>
+								<li><a href="#">Rooms</a></li>
+								<li><a href="#">Portfolio</a></li>
+								<li><a href="#">Blog</a></li>
+								<li><a href="#">Partnership</a></li>
+								<li><a href="#">Contact</a></li>
+							</ul>
+						</div>
+						<div class="footer-content last-box footer-social">
+							<p>We are in social networks</p>
+							<ul>
+								<li><a href="#" target="_blank"><img src="images/facebookIcon.png" alt="facebookIcon"></a></li>
+								<li><a href="#" target="_blank"><img src="images/vkIcon.png" alt="vkIcon"></a></li>
+								<li><a href="#" target="_blank"><img src="images/instagramIcon.png" alt="instagramIcon"></a></li>
+								<li><a href="#" target="_blank"><img src="images/youTubeIcon.png" alt="youTubeIcon"></a></li>
+							</ul>
+						</div>
+					</div>
+					<div id="footerBottom">
+						<p> Copyright 2017. PSDFreebies.com  All Right Reserved</p>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+<!-- END DOCUMENT -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  	<script src="js/jquery-3.1.1.min.js"></script>
+  	<script src="js/custom.js"></script>
+  	<script src="js/plugin.js"></script>
+</body>
+</html>

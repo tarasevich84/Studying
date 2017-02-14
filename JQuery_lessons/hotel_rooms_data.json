@@ -1,0 +1,1122 @@
+[
+	{
+		"id": 1,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 60,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": true,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 2,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 90,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": true,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 3,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": true,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 120,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 4,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 70,
+		"state": {
+			"Italy": false,
+			"Spain": true,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 5,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 100,
+		"state": {
+			"Italy": false,
+			"Spain": true,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 6,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": true,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 130,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 7,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 70,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": true,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 8,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 100,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": true,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 9,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": true,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 130,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 10,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 55,
+		"state": {
+			"Italy": true,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 11,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 85,
+		"state": {
+			"Italy": true,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 12,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": true,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 115,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 13,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 60,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": true,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 14,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 90,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": true,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 15,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": true,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 120,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 16,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 50,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": true,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 17,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 80,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": true,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 18,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": true,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 110,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 19,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 55,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": true,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 20,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 85,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": true,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 21,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": true,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 115,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 22,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 55,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": true,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 23,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 85,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": true,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 24,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": true,
+			"Tunisia": false,
+			"Egypt": false
+		},
+		"price": 115,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 25,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 60,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": true
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 26,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 90,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": true
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 27,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": false,
+			"Egypt": true
+		},
+		"price": 120,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	},
+	{
+		"id": 28,
+		"title": "Standart",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 80,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": true,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 1,
+			"bath": true,
+			"rooms": 1,
+			"wifi": true,
+			"airConditioning": false,
+			"balcony": false,
+			"terrace for sunbathing": false,
+			"breakfast": false,
+			"parking": false
+		},
+		"images": [
+			"images/fotoStandart_1.jpg",
+			"images/fotoStandart_2.jpg",
+			"images/fotoStandart_3.jpg",
+			"images/fotoStandart_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 29,
+		"title": "Small lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"price": 110,
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": true,
+			"Egypt": false
+		},
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 2,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": false,
+			"breakfast": true,
+			"parking": false
+		},
+		"images": [
+			"images/fotoSmall_Lux_1.jpg",
+			"images/fotoSmall_Lux_2.jpg",
+			"images/fotoSmall_Lux_3.jpg",
+			"images/fotoSmall_Lux_4.jpg"
+		],
+		"number of rooms": 20
+	},
+	{
+		"id": 30,
+		"title": "Lux",
+		"description": "Promenade Hotel is right on the beach, surrounded by the town's most popular nightclubs, cafés and restaurants. City centre is one kilometre away.",
+		"hotel": "Amarica",
+		"state": {
+			"Italy": false,
+			"Spain": false,
+			"Portugal": false,
+			"France": false,
+			"Croatia": false,
+			"Montenegro": false,
+			"Greece": false,
+			"Turkey": false,
+			"Tunisia": true,
+			"Egypt": false
+		},
+		"price": 150,
+		"info": {
+			"beds": 2,
+			"bath": true,
+			"rooms": 3,
+			"wifi": true,
+			"airConditioning": true,
+			"balcony": true,
+			"terrace for sunbathing": true,
+			"breakfast": true,
+			"parking": true
+		},
+		"images": [
+			"images/fotoLux_1.jpg",
+			"images/fotoLux_2.jpg",
+			"images/fotoLux_3.jpg",
+			"images/fotoLux_4.jpg",
+			"images/fotoLux_5.jpg"
+		],
+		"number of rooms": 10
+	}
+]
