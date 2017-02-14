@@ -1,0 +1,289 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+body {
+    background-color: blue;
+}
+#content {
+	width: 1600px;
+	margin: 0 auto;
+}
+header {
+	width: 100%;
+	height: 892px;
+	background: url(../images/head.png);
+    border-bottom: 1px solid #455975;
+}
+#pex {
+	color: #e7526b;
+    font: italic lighter 1.8em "Times New Roman", Arial, sans-serif;
+    float: left;
+    margin-top: 30px;
+    padding-left: 210px;
+}
+p>small {
+	font: italic bolder 0.4em "Times New Roman", sans-serif;
+    font-stretch: expanded;
+    color: #ffffff;
+}
+ul {
+	width: 100%;
+    line-height: 99px;
+    font-size: medium;
+    text-align: right;
+    border-bottom: 1px solid #455975;
+}
+ul li {
+    font: 0.8em "Open Sans", sans-serif;
+    display: inline;
+    margin-right: 34px;
+}
+a:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+a:hover {
+	text-decoration-color: #ffffff;
+	padding-bottom: 38px;
+	border-bottom: 3px solid #ffffff;
+}
+.button1 {
+	text-align: left;
+    color: #262626;
+    background-color: #ffffff;
+    width: 220px;
+    height: 45px;
+    border-radius: 25px;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.header {
+	width: 520px;
+    text-align: right;
+    color: #ffffff;
+    position: absolute;
+    top: 366px;
+    margin-left: 206px;
+}
+#h1_header {
+	font: 3.25em/1.34 "Open Sans", sans-serif;
+    margin-bottom: 0.9em;
+}
+.button2 {
+    font: bold 1.15em "Open Sans", sans-serif;
+    color: #ffffff;
+    background-color: #8824cd;
+    border-radius: 40px;
+    width: 275px;
+    height: 64px;
+    margin-bottom: 0.7em;
+    cursor: pointer;
+}
+#p_header {
+	font: 0.8em "Open Sans", sans-serif;
+    margin-right: 30px;
+}
+#font {
+    height: 180px;
+    width: 100%;
+    position: absolute;
+    top: 712px;
+    background: url(../images/head.png) no-repeat;
+    background-position: 0-707px;
+    -webkit-filter: blur(2px);
+}
+#block2 {
+    width: 100%;
+    height: 512px;
+    background-color: #2e3b4e;
+}
+.pex {
+    position: absolute;
+    margin-top: -39px;
+    margin-left: 730px;
+}
+#table {
+	width: 850px;
+    height: 350px;
+    padding-top: 12px;
+    color: #ffffff;
+    font: 1em/1.5 "Open Sans",sans-serif;
+    border-collapse: separate;
+    border-spacing: 20px 36px;
+}
+td>h4 {
+    font: 1em/4 "Open Sans", sans-serif;
+}
+td>p {
+    font: 1em/1.5 "Open Sans", sans-serif;
+}
+#pinkforest1 {
+	background: url(../images/forest.png);
+    width: 100%;
+    height: 540px;
+}
+#pinkforest2 {
+    text-align: center;
+	width: 100%;
+    height: 540px;
+    background-color: rgba(231, 82, 107, 0.7);
+}
+.forest1 {
+    font: 2.2em/2 "Open Sans", sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 136px;
+}
+.forest2 {
+    max-width: 460px;
+    font: 0.95em/1.5 "Open Sans", sans-serif;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.button3 {
+    font: bold 1.2em "Open Sans", sans-serif;
+    color: rgb(231, 82, 107);
+    background-color: #ffffff;
+    border-radius: 35px;
+    width: 345px;
+    height: 64px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+#hand_pen {
+    width: 100%;
+    height: 496px;
+    background: url(../images/hand_pen.png) no-repeat;
+    background-color: #ffffff;
+}
+#pen1 {
+    padding: 84px 210px 100px 730px;
+    font: 1.1em/1.5 "Open Sans", sans-serif;
+}
+#pen1 p {
+    font: 1.1em/1.7 "Open Sans", sans-serif;
+    padding-bottom: 20px;
+}
+p>span {
+    font: 0.8em/1 "Open Sans", sans-serif;
+}
+#hills {
+    width: 100%;
+    height: 550px;
+    position: static;
+    background: url(../images/hills.png);
+    margin-top: -23px;
+}
+#hills1 {
+    width: 100%;
+    height: 456px;
+    background-color: rgba(82, 26, 102, 0.8);
+    position: relative;
+    top: 95px;
+    text-align: center;
+    color: #ffffff;
+}
+.hillstext1 {
+    font: 2.4em/1.5 "Open Sans", sans-serif;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 84px;
+    margin-bottom: 15px;
+}
+.hillstext2 {
+    max-width: 740px;
+    font: 1.3em/1.5 "Open Sans", sans-serif;
+    margin-bottom: 32px;
+}
+#food {
+    width: 100%;
+    height: 670px;
+    background: url(../images/hand_food.png);
+    color: #ffffff;
+}
+#foodtext {
+    margin: 0px 800px 0px 210px;
+    padding-top: 348px;
+    text-align: left;
+    font: lighter 2.1em/1.3 "Open Sans", sans-serif;
+}
+.button4 {
+    width: 135px;
+    height: 36px;
+    color: #ffffff;
+    background: none;
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+div>img {
+    margin-left: -38px;
+}
+.img {
+    margin-top: 22px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+}
+#handblock {
+    width: 100%;
+    height: 516px;
+    background: url(../images/hand.png) no-repeat;
+    background-position: top right;
+    font: 1.1em/1.5 "Open Sans", sans-serif;
+    background-color: #ffffff;
+}
+#hand1 {
+    text-align: left;
+    padding-top: 110px;
+    padding-left: 210px;
+}
+.hand1 {
+    text-align: left;
+    padding-left: 210px;
+    padding-right: 730px;
+    font: 1em/1.5 "Open Sans", sans-serif;
+}
+.hand2 {
+    text-align: left;
+    padding: 0 730px 26px 210px;
+    font: 1.15em/1.5 "Open Sans", sans-serif;
+}
+#contacts {
+    width: 100%;
+    height: 460px;
+    background-color: #e7526b;
+    color: #ffffff;
+}
+#contact1 {
+    padding-left: 210px;
+    padding-top: 60px;
+    font: bold 1em/3.5 "Open Sans", sans-serif;
+}
+#contact2 {
+    padding-left: 210px;
+    padding-right: 1000px;
+    font: 1em/1.5 "Open Sans", sans-serif;
+}
+#contact3 {
+    padding-left: 210px;
+    padding-top: 24px;
+    font: 1em/1.5 "Open Sans", sans-serif;
+    text-decoration: underline;
+}
+#footer {
+    width: 100%;
+    height: 367px;
+    background-color: #2e3b4e;
+    font: bold 0.7em/1.5 "Open Sans", sans-serif;
+    color: #ffffff;
+}
+#last {
+    padding-top: 44px;
+    padding-left: 210px;
+}
